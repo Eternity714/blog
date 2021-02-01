@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "呆萌大虾球的个人博客",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.1.0",
+    "vuepress": "^1.8.0"
+  },
+  "author": "呆萌大虾球",
+  "license": "ISC"
+}
